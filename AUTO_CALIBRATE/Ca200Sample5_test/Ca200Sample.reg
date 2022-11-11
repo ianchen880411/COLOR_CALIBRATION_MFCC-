@@ -1,0 +1,13 @@
+REGEDIT
+;   この .REG ファイ?は SETUP プ?グ??で使用される可能性が?ります。
+;   SETUP プ?グ??が使用できない場?、以下のエ?ト?は CWinApp::RegisterShellFileTypes
+;   および COleObjectFactory::UpdateRegistryAll の呼び出しで自動的に InitInstance ?に
+;   登録されます。
+
+
+HKEY_CLASSES_ROOT\Ca200Sample.Application = Ca200Sample Application
+HKEY_CLASSES_ROOT\Ca200Sample.Application\CLSID = {AE212B5F-FD44-4D07-9DF0-49E73D660FF8}
+
+HKEY_CLASSES_ROOT\CLSID\{AE212B5F-FD44-4D07-9DF0-49E73D660FF8} = Ca200Sample Application
+HKEY_CLASSES_ROOT\CLSID\{AE212B5F-FD44-4D07-9DF0-49E73D660FF8}\ProgId = Ca200Sample.Application
+HKEY_CLASSES_ROOT\CLSID\{AE212B5F-FD44-4D07-9DF0-49E73D660FF8}\LocalServer32 = CA200SAMPLE.EXE
