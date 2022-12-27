@@ -1,0 +1,12 @@
+C:\adlink\calibration_new\AUTO_CALIBRATE_0628\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_0628_友達\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN - 複製\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN_1012\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN_1122\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN_1212\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN_1212 - 複製\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_INN_1221\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1221\Ca200Sample5_test\Release\Ca200Sample.exe
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Release\Ca200Sample.exe

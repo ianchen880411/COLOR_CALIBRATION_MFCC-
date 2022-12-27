@@ -1,0 +1,219 @@
+﻿  Processing .\Ca200Sample.odl
+  Ca200Sample.odl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oaidl.acf
+  oaidl.acf
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ca200Sample.cpp
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(18,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(95,29): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(100,38): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(105,26): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.h(14,9): warning C4068: 未知的 pragma 'on'
+  Ca200SampleDlg.cpp
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(18,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(95,29): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(100,38): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(105,26): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.h(14,9): warning C4068: 未知的 pragma 'on'
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(211,21): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(305,27): warning C4244: '引數': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(332,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(344,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(426,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(446,17): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(528,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(618,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(624,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(654,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(655,21): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(674,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(676,21): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(677,22): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(700,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(703,22): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1024,52): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1123,6): warning C4101: 'BTState': 未參考的區域變數
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1265,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1267,21): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1351,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1354,63): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1355,65): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1356,64): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1376,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1379,21): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(1381,22): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.cpp(2045,20): warning C4018: '<': signed/unsigned 不相符
+  CaEvent.cpp
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(18,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(95,29): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(100,38): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(105,26): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.h(14,9): warning C4068: 未知的 pragma 'on'
+  Calibrate.cpp
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(18,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(95,29): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(100,38): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(105,26): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.h(14,9): warning C4068: 未知的 pragma 'on'
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(51,129): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(54,129): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(56,10): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(62,29): warning C4244: '引數': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(63,10): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(90,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(117,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(127,12): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(144,34): warning C4244: '引數': 將 '_Ty' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(145,34): warning C4244: '引數': 將 '_Ty' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(146,34): warning C4244: '引數': 將 '_Ty' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(147,34): warning C4244: '引數': 將 '_Ty' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(214,27): warning C4244: '/=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(339,11): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(340,11): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(341,11): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(359,47): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(354,6): warning C4101: 'max_RGB': 未參考的區域變數
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(398,20): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(400,21): warning C4018: '<': signed/unsigned 不相符
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(421,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(422,12): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(424,12): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(435,12): warning C4244: '=': 將 'double' 轉換為 'uint16_t'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(443,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(492,23): warning C4244: '-=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Calibrate.cpp(498,17): warning C4244: '/=': 將 'const double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  DlgProxy.cpp
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(18,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(95,29): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(100,38): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\calibrate.h(105,26): warning C4305: '正在初始化': 從 'double' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Ca200SampleDlg.h(14,9): warning C4068: 未知的 pragma 'on'
+  正在產生程式碼...
+  Ca200Sample.vcxproj -> C:\adlink\calibration_new\AUTO_CALIBRATE_AUO_1222\Ca200Sample5_test\Release\Ca200Sample.exe
