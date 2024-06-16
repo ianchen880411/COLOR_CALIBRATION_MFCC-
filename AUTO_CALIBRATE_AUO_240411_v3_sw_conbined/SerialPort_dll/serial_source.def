@@ -1,0 +1,34 @@
+LIBRARY "scaler_serial"  
+EXPORTS  
+     OpenComm @1
+     CloseComm @2
+     WriteComm @3
+     ReadComm @4  
+     ReadLineComm @5
+     WriteCharComm @6
+     Connect_to_ScalerBoard @7
+     Disconnect_ScalerBoard @8
+     Adjust_BackLight_PWM @9
+     Generate_RGB_Pattern @10
+     Set_LUTable1D_Element @11
+     Set_LUTable1D_Array @12
+     FPGA_Datecode_Get @13
+     MCU_SysTick_Get @14
+     SPI_Register_Write @15
+     SPI_Register_Read @16
+     Initial_TX_Control @17
+     Generate_RGB_Pattern_Final_Stage @18
+     TX_Video_Pipeline_LUT_Enable @19
+     TX_Video_Pipeline_LUT_Reset_to_InitState @20
+     TX_Video_Pipeline_LUT_Store_to_Flash @21
+     Xfer_LUTable1D_Element @22
+     TX_Video_Pipeline_LUT_Actiate_FPGA @23
+     TX_Video_Pipeline_LUT_Update_FPGA @24
+     TX_Video_Pipeline_LUT_Load_from_Flash @25
+     TX_Video_Pipeline_LUT_Activate_FPGA @26
+     Get_Library_Version @27
+     Xfer_LUTable1D_U32Data @28
+     Save_LUTBuffer_to_Flash_Calibrate_Section @29
+     Load_LUTBuffer_from_Flash_Calibrate_Section @30
+     Xfer_LUTable3D_U32Data @31
+	 

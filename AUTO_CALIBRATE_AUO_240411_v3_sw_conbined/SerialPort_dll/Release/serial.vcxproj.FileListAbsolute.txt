@@ -1,0 +1,1 @@
+C:\ADLINK\Colour_Calibration\calibration_c++\test\AUTO_CALIBRATE_AUO_240307_3D\SerialPort_dll\Release\scaler_serial.dll

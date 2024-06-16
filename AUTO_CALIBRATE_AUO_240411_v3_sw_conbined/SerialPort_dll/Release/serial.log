@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  scaler_serial.cpp
+  SerialPort.cpp
+     正在建立程式庫 C:\ADLINK\Colour_Calibration\calibration_c++\test\AUTO_CALIBRATE_AUO_240307_3D\SerialPort_dll\Release\scaler_serial.lib 和物件 C:\ADLINK\Colour_Calibration\calibration_c++\test\AUTO_CALIBRATE_AUO_240307_3D\SerialPort_dll\Release\scaler_serial.exp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 55 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  serial.vcxproj -> C:\ADLINK\Colour_Calibration\calibration_c++\test\AUTO_CALIBRATE_AUO_240307_3D\SerialPort_dll\Release\scaler_serial.dll
